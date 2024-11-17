@@ -1,5 +1,5 @@
 //Gimenez Nazarena--Gareca Emelyn (Comision 2)
-//VIDEO: 
+//VIDEO: https://youtu.be/z3oYQEMaY2E
   
   let estado = 1 ;
   let imagenes = [];
