@@ -1,6 +1,6 @@
 //Gareca, Emelyn--- GarciasGimenez Nazarena
 // TPFINALPARTE2 COM2
-// VIDEO: 
+// VIDEO: https://youtu.be/KqkeyDsxXxQ
 
 let principal; 
 let willder , willizq , thebeast , candyverde , candyvioleta , candyamarillo , fondo , inicio , win , lose ,instrucciones , creditos;
